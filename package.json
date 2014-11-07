@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-message",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> cf41bcfc3995585d85f7c81144512692d3ab0f53
   "title": "Semantic UI - Message",
   "description": "Single component release of message",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> cf41bcfc3995585d85f7c81144512692d3ab0f53
   "devDependencies": {}
 }
