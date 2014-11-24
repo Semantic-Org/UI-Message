@@ -1,4 +1,4 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **Form** - Form now has a success state which will automatically display success messages
 - **Form** - Forms in 'success' state will now show success messages inside
