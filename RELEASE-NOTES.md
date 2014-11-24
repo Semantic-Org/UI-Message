@@ -3,6 +3,12 @@
 - **Form** - Form now has a success state which will automatically display success messages
 - **Form** - Forms in 'success' state will now show success messages inside
 
+### Version 0.15.5 - April 11, 2014
+
+- **Message** - Fixes hidden/visible class to work with animations
+- **Message** - Fixes hidden/visible class to set proper display on ``ui icon message``
+- **Message** - Fixes hitbox/position of ``close icon`` inside message
+
 ### Version 0.12.3 - Jan 24, 2014
 
 - **Message** - Fixes some issues with margins sometimes not appearing with ``attached message`` **thanks joltmode**
