@@ -1,3 +1,7 @@
+### Version 1.3.0 - December 17, 2014
+
+- **All UI** - Adds error message when triggering an invalid module behavior i.e. typos ``$('.dropdown').dropdown('hid');``
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Form** - Form now has a success state which will automatically display success messages
