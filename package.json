@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-message",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> acae290e27b4d713da9dd2b5cefaada04f2d17ee
   "title": "Semantic UI - Message",
   "description": "Single component release of message",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Message.git"
+    "url": "https://github.com/Semantic-Org/UI-Message.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
