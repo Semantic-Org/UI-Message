@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-=======
+### UI Changes
+
+- **Form** - `info message` are no longer hidden by default inside `ui form`
+
 ### Version 1.3.0 - December 17, 2014
 
 - **All UI** - Adds error message when triggering an invalid module behavior i.e. typos ``$('.dropdown').dropdown('hid');``
@@ -40,4 +42,3 @@
 - **Message** - Increase opacity of icons on icon messages
 
 ### Version 0.1.0 - Sep 25, 2013
->>>>>>> acae290e27b4d713da9dd2b5cefaada04f2d17ee
