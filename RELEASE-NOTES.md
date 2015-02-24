@@ -1,3 +1,8 @@
+### Version 1.10.0 - February 23, 2015
+
+- **Form Validation** - Validation messages no longer increase field height on `inline fields` like checkboxes after error appears
+- **Search** - Category search no longer displays unnecessary error message about maxResults
+
 ### UI Changes
 
 - **Form** - `info message` are no longer hidden by default inside `ui form`
