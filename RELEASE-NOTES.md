@@ -1,3 +1,7 @@
+### Version 1.10.4 - February 28, 2015
+
+- **API** - Remove console error message when no API url is specified but element is a `form` (defaults to `form` action)
+
 ### Version 1.10.0 - February 23, 2015
 
 - **Form Validation** - Validation messages no longer increase field height on `inline fields` like checkboxes after error appears
