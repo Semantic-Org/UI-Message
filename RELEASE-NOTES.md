@@ -1,3 +1,13 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Dropdowns** - Added ability to add custom choices to all search selection dropdowns (multi/single) using `allowAdditions: true` setting. Search now displays error messages on no results in all cases.
+- **Message** - `icon message` now uses `flexbox` for layout
+- **Message** - Message now uses `@lineHeight` from `site.variables`
+- **Message** - Updated all message colors for legibility
+- **Message** - Close icon position adjusted to align with headers
+- **Popup** - Popup will now produce an error message and not mistakenly appear in the top left corner of page, if called with a `popup` or `target` that does not exist.
+- **Message** - Slightly increases `box-shadow`
+
 ### Version 1.10.4 - February 28, 2015
 
 - **API** - Remove console error message when no API url is specified but element is a `form` (defaults to `form` action)
