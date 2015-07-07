@@ -1,3 +1,7 @@
+### Version 2.0.1 - July 6, 2015
+
+- **Dropdown** - Dropdown will now show correctly when menu only includes a message with no other items
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Dropdowns** - Added ability to add custom choices to all search selection dropdowns (multi/single) using `allowAdditions: true` setting. Search now displays error messages on no results in all cases.
