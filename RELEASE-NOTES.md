@@ -1,3 +1,7 @@
+### Version 2.0.4 - July 17, 2015
+
+- **Message** - Fixes `attached icon message` not using `flex`
+
 ### Version 2.0.1 - July 6, 2015
 
 - **Dropdown** - Dropdown will now show correctly when menu only includes a message with no other items
