@@ -1,3 +1,12 @@
+#### Features
+
+- **Dropdown** - Dropdown with user additions now will use custom templated messages to distinguish added choice from preselected choice [#2923](https://github.com/Semantic-Org/Semantic-UI/issues/2923)
+
+#### Bugs
+
+- **Dropdown** - Fixed issue where "no results" message would be still be visible before search query on input focus [#2824](https://github.com/Semantic-Org/Semantic-UI/issues/2824)
+- **Form** - Form will no longer show messages that are empty in `error`, `warning`, or `success` state.
+
 ### Version 2.0.5 - July 20, 2015
 
 - **Message** - Fixed issues where icon would overlap in `icon message` when at mobile resolutions due to `flex-collapse` value being incorrect [#2665](https://github.com/Semantic-Org/Semantic-UI/issues/2665)
