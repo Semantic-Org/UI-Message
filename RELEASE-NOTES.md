@@ -1,3 +1,8 @@
+### Version 2.1.4 - Sep 13, 2015
+
+- **Message** - `ui list` used inside `ui message` now aligns properly in all conditions [#2958](https://github.com/Semantic-Org/Semantic-UI/issues/2958)
+- **Form Validation** - Validation messages in `error message` group are now correctly removed when invalid field revalidates on blur
+
 #### Features
 
 - **Dropdown** - Dropdown with user additions now will use custom templated messages to distinguish added choice from preselected choice [#2923](https://github.com/Semantic-Org/Semantic-UI/issues/2923)
