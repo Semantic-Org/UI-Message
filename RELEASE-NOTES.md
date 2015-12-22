@@ -1,3 +1,7 @@
+### Version 2.1.7 - Dec 19, 2015
+
+- **Search** - Search now correctly hides menu when an error message inside results is clicked. [#3039](https://github.com/Semantic-Org/Semantic-UI/issues/3039)
+
 ### Version 2.1.4 - Sep 13, 2015
 
 - **Message** - `ui list` used inside `ui message` now aligns properly in all conditions [#2958](https://github.com/Semantic-Org/Semantic-UI/issues/2958)
