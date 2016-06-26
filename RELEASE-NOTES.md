@@ -1,3 +1,12 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Search** - Search now includes a `showNoResults` setting for determining whether no results messages should be shown 
+- **Site** - Added colored box shadow defaults. `ui message` now includes individual colored border shadows based on new site defaults.
+- **Dropdown** - Fixed issue where value set using javascript DOM metadata would be cleared when a message or user addition triggered `refresh` [#3879](https://github.com/Semantic-Org/Semantic-UI/issues/3879) [#3622](https://github.com/Semantic-Org/Semantic-UI/issues/3622) **Thanks @mdehoog**
+- **Search** - Fixed an issue where `onResult` returning `false` would not prevent the search menu from hiding. Clicking on an empty results message will also no longer close the search results. [#3856](https://github.com/Semantic-Org/Semantic-UI/issues/3856) [#3870](https://github.com/Semantic-Org/Semantic-UI/issues/3870)
+- **Message** - Fixes `compact message` appearing as `block` when inside a `form` [#3343](https://github.com/Semantic-Org/Semantic-UI/issues/3343) **Thanks @bcroq**
+- **Segment/Message** - `top attached message` has no border when attached to `segment` [#3619](https://github.com/Semantic-Org/Semantic-UI/issues/3619)
+
 ### Version 2.1.7 - Dec 19, 2015
 
 - **Search** - Search now correctly hides menu when an error message inside results is clicked. [#3039](https://github.com/Semantic-Org/Semantic-UI/issues/3039)
