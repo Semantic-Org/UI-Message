@@ -1,3 +1,7 @@
+### Version 2.2.4 - August 25, 2016
+
+- **Message** - Added additional variables for `@padding`
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Search** - Search now includes a `showNoResults` setting for determining whether no results messages should be shown
