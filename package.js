@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-message',
   summary : 'Semantic UI - Message: Single component release',
-  version : '2.2.6',
+  version : '2.2.7',
   git     : 'git://github.com/Semantic-Org/UI-Message.git',
 });
 
