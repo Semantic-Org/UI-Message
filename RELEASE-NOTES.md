@@ -1,3 +1,7 @@
+#### Dropdown
+
+- **Search** - Fixes issue where empty results message can still appear when using setting `showNoResults: false` [#4616](https://github.com/Semantic-Org/Semantic-UI/pull/4616)
+
 ### Version 2.2.4 - August 25, 2016
 
 - **Message** - Added additional variables for `@padding`
