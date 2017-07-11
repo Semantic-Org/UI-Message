@@ -1,3 +1,7 @@
+### Version 2.2.11 - July 11, 2017
+
+- **Message** - Fix issue with `compact icon message` not appearing compact [#4759](https://github.com/Semantic-Org/Semantic-UI/issues/4759)
+
 #### Dropdown
 
 - **Search** - Fixes issue where empty results message can still appear when using setting `showNoResults: false` [#4616](https://github.com/Semantic-Org/Semantic-UI/pull/4616)
