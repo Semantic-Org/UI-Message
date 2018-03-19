@@ -1,3 +1,7 @@
+### Version 2.3.1 - Mar 19, 2018
+
+> **A Special Message about Flex Modals**
+
 ### Version 2.2.11 - July 11, 2017
 
 - **Message** - Fix issue with `compact icon message` not appearing compact [#4759](https://github.com/Semantic-Org/Semantic-UI/issues/4759)
